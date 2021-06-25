@@ -5,5 +5,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 
 .btn {
-  @apply py-2 px-6 mt-20 border-4 hover:text-very-light-grey border-very-light-grey text-sm bg-very-light-grey rounded-full transition duration-500;
+  @apply py-2 px-6 mt-20 border-4 hover:text-very-light-grey border-very-light-grey text-sm bg-very-light-grey rounded-full transition duration-700;
 }
